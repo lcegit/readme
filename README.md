@@ -15,7 +15,6 @@
 
 
 ```
-codeblock
 
 def hello
 puts 'hello world'
